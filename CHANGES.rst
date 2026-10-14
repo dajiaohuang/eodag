@@ -3,6 +3,25 @@ Release history
 ===============
 
 
+v4.10.0 (2026-10-14)
+====================
+
+Bug Fixes
+---------
+
+* **s3**: Remote s3 zip64 files read support (`#2389`_, `932db4f`_)
+
+Features
+--------
+
+* **queryables**: QueryablesDict.get_model_json_schema method (`#2358`_, `1d6d9b0`_)
+
+.. _#2358: https://github.com/CS-SI/eodag/pull/2358
+.. _#2389: https://github.com/CS-SI/eodag/pull/2389
+.. _1d6d9b0: https://github.com/CS-SI/eodag/commit/1d6d9b0cf376ba4a8362758e9666dd9450b70459
+.. _932db4f: https://github.com/CS-SI/eodag/commit/932db4f3700664beb96ea3295ea55129515f674b
+
+
 v4.9.2 (2026-10-07)
 ===================
 
